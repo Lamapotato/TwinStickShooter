@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleFoW.cpp.obj": [
+			"RegisterToSimpleFoW.gen.cpp.obj",
+			"SimpleFoW.init.gen.cpp.obj",
+			"SimpleFoWManager.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RegisterToSimpleFoW.cpp.obj",
+			"SimpleFoW.cpp.obj",
+			"SimpleFoWManager.cpp.obj",
+			"SimpleFoWWorker.cpp.obj"
+		]
+	}
+}

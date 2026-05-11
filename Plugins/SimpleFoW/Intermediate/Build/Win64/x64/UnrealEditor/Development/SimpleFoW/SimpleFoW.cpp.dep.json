@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\private\\simplefow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\isvulfesfogofwarue5-master\\intermediate\\build\\win64\\x64\\fowforkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplefow\\definitions.simplefow.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\public\\simplefow.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\private\\registertosimplefow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\isvulfesfogofwarue5-master\\intermediate\\build\\win64\\x64\\fowforkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplefow\\definitions.simplefow.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\public\\registertosimplefow.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\public\\simplefowmanager.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\simplefowmanager.generated.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\registertosimplefow.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

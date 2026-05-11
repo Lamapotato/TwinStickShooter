@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplefow\\module.simplefow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\isvulfesfogofwarue5-master\\intermediate\\build\\win64\\x64\\fowforkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplefow\\definitions.simplefow.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\registertosimplefow.gen.cpp",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\public\\registertosimplefow.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\source\\simplefow\\public\\simplefowmanager.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\simplefowmanager.generated.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\registertosimplefow.generated.h",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\simplefow.init.gen.cpp",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\unrealeditor\\inc\\simplefow\\uht\\simplefowmanager.gen.cpp",
+            "d:\\git\\isvulfesfogofwarue5-master\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplefow\\permoduleinline.gen.cpp",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
