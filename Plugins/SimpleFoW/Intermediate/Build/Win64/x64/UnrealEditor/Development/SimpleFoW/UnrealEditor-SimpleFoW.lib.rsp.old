@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SimpleFoW.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/git/IsvulfesFogOfWarUE5-master/Intermediate/Build/Win64/x64/FOWForkEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Module.SimpleFoW.cpp.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/RegisterToSimpleFoW.cpp.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoWManager.cpp.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoWWorker.cpp.obj"
+"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Default.rc2.res"
+/OUT:"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/UnrealEditor-SimpleFoW.lib"

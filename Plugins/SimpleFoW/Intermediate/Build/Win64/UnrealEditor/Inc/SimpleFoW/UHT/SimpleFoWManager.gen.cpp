@@ -609,15 +609,15 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_NS(, ASimpleFoWManager);
 // ********** End Class ASimpleFoWManager **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics
+struct Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASimpleFoWManager, ASimpleFoWManager::StaticClass, TEXT("ASimpleFoWManager"), &Z_Registration_Info_UClass_ASimpleFoWManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASimpleFoWManager), 2177818312U) },
 	};
-}; // Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_3591568649{
+}; // Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_3591568649{
 	TEXT("/Script/SimpleFoW"),
-	Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h__Script_SimpleFoW_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

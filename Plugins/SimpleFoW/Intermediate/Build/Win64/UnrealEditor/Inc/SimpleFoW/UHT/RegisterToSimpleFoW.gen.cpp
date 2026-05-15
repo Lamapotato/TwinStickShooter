@@ -243,15 +243,15 @@ URegisterToSimpleFoW::~URegisterToSimpleFoW() {}
 // ********** End Class URegisterToSimpleFoW *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics
+struct Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_URegisterToSimpleFoW, URegisterToSimpleFoW::StaticClass, TEXT("URegisterToSimpleFoW"), &Z_Registration_Info_UClass_URegisterToSimpleFoW, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(URegisterToSimpleFoW), 1960875678U) },
 	};
-}; // Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_2909146915{
+}; // Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_2909146915{
 	TEXT("/Script/SimpleFoW"),
-	Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_RegisterToSimpleFoW_h__Script_SimpleFoW_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };
