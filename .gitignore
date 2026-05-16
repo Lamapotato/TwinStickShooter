@@ -76,3 +76,4 @@ DerivedDataCache/*
 
 Content/Developers/*
 !Plugins/SimpleFoW/*
+!Plugins/SimpleFoW/Binaries/Win64/UnrealEditor-SimpleFoW.dll
