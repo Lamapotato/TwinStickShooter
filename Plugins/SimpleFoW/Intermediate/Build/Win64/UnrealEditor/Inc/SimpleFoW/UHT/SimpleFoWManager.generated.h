@@ -19,7 +19,7 @@ class AActor;
 class UTexture2D;
 
 // ********** Begin Class ASimpleFoWManager ********************************************************
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void OnFowTextureUpdated_Implementation(UTexture2D* currentTexture, UTexture2D* lastTexture); \
 	DECLARE_FUNCTION(execLogNames); \
 	DECLARE_FUNCTION(execRegisterFowActor); \
@@ -27,11 +27,11 @@ class UTexture2D;
 	DECLARE_FUNCTION(execOnFowTextureUpdated);
 
 
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_CALLBACK_WRAPPERS
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_ASimpleFoWManager_Statics;
 SIMPLEFOW_API UClass* Z_Construct_UClass_ASimpleFoWManager_NoRegister();
 
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASimpleFoWManager(); \
 	friend struct ::Z_Construct_UClass_ASimpleFoWManager_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(ASimpleFoWManager)
 
 
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ASimpleFoWManager(ASimpleFoWManager&&) = delete; \
 	ASimpleFoWManager(const ASimpleFoWManager&) = delete; \
@@ -51,14 +51,14 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASimpleFoWManager)
 
 
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_12_PROLOG
-#define FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_GENERATED_BODY \
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_12_PROLOG
+#define FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_CALLBACK_WRAPPERS \
-	FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_INCLASS_NO_PURE_DECLS \
-	FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_ENHANCED_CONSTRUCTORS \
+	FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_CALLBACK_WRAPPERS \
+	FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_INCLASS_NO_PURE_DECLS \
+	FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -68,6 +68,6 @@ class ASimpleFoWManager;
 // ********** End Class ASimpleFoWManager **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_git_IsvulfesFogOfWarUE5_master_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h
+#define CURRENT_FILE_ID FID_TwinStickShooter_Plugins_SimpleFoW_Source_SimpleFoW_Public_SimpleFoWManager_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
