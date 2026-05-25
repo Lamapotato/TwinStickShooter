@@ -1,12 +1,12 @@
-"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Source/SimpleFoW/Private/SimpleFoW.cpp"
-@"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.Shared.rsp"
-/FI"D:/git/IsvulfesFogOfWarUE5-master/Intermediate/Build/Win64/x64/FOWForkEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Definitions.SimpleFoW.h"
-/Yu"D:/git/IsvulfesFogOfWarUE5-master/Intermediate/Build/Win64/x64/FOWForkEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"D:/git/IsvulfesFogOfWarUE5-master/Intermediate/Build/Win64/x64/FOWForkEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.obj"
-/experimental:log "D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.sarif"
-/sourceDependencies "D:/git/IsvulfesFogOfWarUE5-master/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.dep.json"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Source/SimpleFoW/Private/SimpleFoW.cpp"
+@"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.Shared.rsp"
+/FI"D:/git/TwinStickShooter/Intermediate/Build/Win64/x64/TwinStickShooterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Definitions.SimpleFoW.h"
+/Yu"D:/git/TwinStickShooter/Intermediate/Build/Win64/x64/TwinStickShooterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/git/TwinStickShooter/Intermediate/Build/Win64/x64/TwinStickShooterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.obj"
+/experimental:log "D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.sarif"
+/sourceDependencies "D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.dep.json"
 /nologo
 /Oi
 /FC

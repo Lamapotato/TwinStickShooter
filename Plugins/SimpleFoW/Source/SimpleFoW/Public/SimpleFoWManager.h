@@ -140,11 +140,11 @@ private:
 	void StartFOWTextureUpdate();
 
 	//Our dynamically updated texture
-	UPROPERTY(Transient)
+	UPROPERTY()
 	UTexture2D* FOWTexture = nullptr;
 
 	//Texture from last update. We blend between the two to do a smooth unveiling of newly discovered areas.
-	UPROPERTY(Transient)
+	UPROPERTY()
 	UTexture2D* LastFOWTexture = nullptr;
 
 	//Texture regions
@@ -154,6 +154,6 @@ private:
 	class FSimpleFoWWorker* FowThread = nullptr;
 
 	//This is for accessing the actor component "RegisterToFow_BP"
-	UPROPERTY(Transient)
+	UPROPERTY()
 	UActorComponent* ActorComp = nullptr;
 };

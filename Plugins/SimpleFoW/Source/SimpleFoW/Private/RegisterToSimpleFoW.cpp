@@ -21,11 +21,9 @@ void URegisterToSimpleFoW::BeginPlay()
 	UE_LOG(LogTemp, Log, TEXT("I am alive %s"), *ObjectName);
 
 	//registering the actor to the FOW Manager
-
 	if (Manager == nullptr) {
 		Manager = Cast<ASimpleFoWManager>(UGameplayStatics::GetActorOfClass(GetWorld(), ASimpleFoWManager::StaticClass()));
 	}
-
 	if (Manager != nullptr) {
 		UE_LOG(LogTemp, Log, TEXT("Found Manager"));
 

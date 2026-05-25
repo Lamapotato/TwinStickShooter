@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-SimpleFoW.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:/UnrealProjects/TwinStickShooter/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"D:/UnrealProjects/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Module.SimpleFoW.cpp.obj"
-"D:/UnrealProjects/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Default.rc2.res"
-/OUT:"D:/UnrealProjects/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/UnrealEditor-SimpleFoW.lib"
+"D:/git/TwinStickShooter/Intermediate/Build/Win64/x64/TwinStickShooterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Module.SimpleFoW.cpp.obj"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/RegisterToSimpleFoW.cpp.obj"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoW.cpp.obj"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/SimpleFoWManager.cpp.obj"
+"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/Default.rc2.res"
+/OUT:"D:/git/TwinStickShooter/Plugins/SimpleFoW/Intermediate/Build/Win64/x64/UnrealEditor/Development/SimpleFoW/UnrealEditor-SimpleFoW.lib"

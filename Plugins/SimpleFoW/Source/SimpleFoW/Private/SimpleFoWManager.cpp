@@ -44,11 +44,9 @@ void ASimpleFoWManager::BeginPlay()
 {
 	Super::BeginPlay();
 	bIsDoneBlending = true;
-	//bIsBlurEnabled = false;  // Disable blur temporarily
-	bUseTextureFile = false;  // Disable texture file loading
-	GetWorldTimerManager().SetTimerForNextTick(this, &ASimpleFoWManager::StartFOWTextureUpdate);
+	ASimpleFoWManager::StartFOWTextureUpdate();
 	//I commented this to remove the player from the FOW
-	//RegisterFowActor(GetWorld()->GetFirstPlayerController()->GetPawn());
+	RegisterFowActor(GetWorld()->GetFirstPlayerController()->GetPawn());
 
 }
 
@@ -57,6 +55,7 @@ void ASimpleFoWManager::Tick(float DeltaSeconds)
 	Super::Tick(DeltaSeconds);
 	if (FOWTexture && LastFOWTexture && bHasFOWTextureUpdate && bIsDoneBlending)
 	{
+		FlushRenderingCommands();
 		LastFOWTexture->UpdateResource();
 		UpdateTextureRegions(LastFOWTexture, (int32)0, (uint32)1, TextureRegions, (uint32)(4 * TextureSize), (uint32)4, (uint8*)LastFrameTextureData.GetData(), false);
 		FOWTexture->UpdateResource();

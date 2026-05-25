@@ -6,10 +6,10 @@
 			"SimpleFoW.init.gen.cpp.obj",
 			"SimpleFoWManager.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"SimpleFoWWorker.cpp.obj",
 			"RegisterToSimpleFoW.cpp.obj",
 			"SimpleFoW.cpp.obj",
-			"SimpleFoWManager.cpp.obj",
-			"SimpleFoWWorker.cpp.obj"
+			"SimpleFoWManager.cpp.obj"
 		]
 	}
 }
