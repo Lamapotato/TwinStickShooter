@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\simplefow\\module.simplefow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\twinstickshooter\\intermediate\\build\\win64\\x64\\sfae\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\simplefow\\definitions.simplefow.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\unrealgame\\inc\\simplefow\\uht\\registertosimplefow.gen.cpp",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\public\\registertosimplefow.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\public\\simplefowmanager.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\unrealgame\\inc\\simplefow\\uht\\simplefowmanager.generated.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\unrealgame\\inc\\simplefow\\uht\\registertosimplefow.generated.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\unrealgame\\inc\\simplefow\\uht\\simplefow.init.gen.cpp",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\intermediate\\build\\win64\\unrealgame\\inc\\simplefow\\uht\\simplefowmanager.gen.cpp",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\private\\registertosimplefow.cpp",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\coreuobject\\uht\\arfilter.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\private\\simplefow.cpp",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\public\\simplefow.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\private\\simplefowmanager.cpp",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\public\\rendering\\texture2dresource.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\public\\rendering\\streamabletextureresource.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\public\\simplefowworker.h",
+            "d:\\git\\twinstickshooter\\plugins\\simplefow\\source\\simplefow\\private\\simplefowworker.cpp",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\geometrycore\\public\\mathutil.h",
+            "d:\\software\\epic games\\ue_5.7\\engine\\source\\runtime\\geometrycore\\public\\geometrybase.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\include\\cmath"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
